@@ -1,0 +1,18 @@
+@charset "UTF-8";
+#content
+{
+	width:100%;
+	background-color:#f8f9fa;
+	min-height:600px;
+}
+#footer{
+	width:100%;
+	background-color:#343a40;
+	min-height:40px;
+	color:white;
+}
+.my-picture{
+	width:40px;
+	height:40px;
+	border-radius:20px;
+}
